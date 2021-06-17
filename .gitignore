@@ -1,8 +1,10 @@
 *
 !.docker/
 !.docker/apache2/*
+!.docker/apache2/sites-available/*
 !.docker/php/*
 !.docker/*
+!.docker/php/conf.d/*
 !Dockerfile
 !docker-compose.yaml
 !.dockerignore
