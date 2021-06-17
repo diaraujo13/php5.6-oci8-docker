@@ -1,5 +1,7 @@
 *
 !.docker/
+!.docker/apache2/*
+!.docker/php/*
 !.docker/*
 !Dockerfile
 !docker-compose.yaml
