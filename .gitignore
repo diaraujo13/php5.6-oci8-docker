@@ -1,5 +1,6 @@
 *
 !.docker
+!.docker/*
 !Dockerfile
 !docker-compose.yaml
 !.dockerignore
