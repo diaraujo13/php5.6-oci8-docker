@@ -1,5 +1,5 @@
 *
-!.docker
+!.docker/
 !.docker/*
 !Dockerfile
 !docker-compose.yaml
